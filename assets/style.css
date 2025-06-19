@@ -19,11 +19,11 @@ body {
   .cartao__conteudo {
     text-align: center;
     height: 100%;
-    background-color: rgb(144, 183, 255);
+    background-color: rgb(3, 91, 255);
 }
 
 .cartao__conteudo h3 {
-    background-color: rgb(201, 226, 255);
+    background-color: rgb(22, 82, 151);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
@@ -56,7 +56,7 @@ body {
 
 
 footer {
-    background-color: black;
+    background-color: rgb(121, 196, 240);
     color: white;
     bottom:0;
     position:fixed;
