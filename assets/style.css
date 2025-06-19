@@ -22,7 +22,7 @@ body {
 }
 
 .cartao__conteudo h3 {
-    background-color: rgb(7, 63, 128);
+    background-color: rgb(201, 226, 255);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
@@ -38,7 +38,7 @@ body {
 }
 
 .cartao__conteudo__resposta p{
-    color: rgb(27, 52, 82);
+    color: rgb(242, 243, 243);
     font-weight: 700;
 }
 
