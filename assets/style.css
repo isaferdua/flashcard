@@ -18,11 +18,11 @@ body {
   .cartao__conteudo {
     text-align: center;
     height: 100%;
-    background-color: rgb(2, 80, 80);
+    background-color: rgb(0, 18, 32);
 }
 
 .cartao__conteudo h3 {
-    background-color: rgb(2, 30, 63);
+    background-color: rgb(7, 63, 128);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
@@ -38,7 +38,7 @@ body {
 }
 
 .cartao__conteudo__resposta p{
-    color: rgb(143, 195, 255);
+    color: rgb(27, 52, 82);
     font-weight: 700;
 }
 
