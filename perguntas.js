@@ -29,7 +29,7 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual é o menor país do mundo ?',
+    'Qual é o menor país do mundo?',
     'Vaticano.'
 )
 
