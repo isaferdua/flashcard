@@ -27,7 +27,13 @@ body {
     flex-basis: calc(33% - 6rem);
 }
 
-
+.cartao__conteudo {
+    background-color: var(--card-front-color);
+    text-align: center;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
+}
  
 .cartao__conteudo h3 {
     color: var(--text-color);
@@ -41,13 +47,7 @@ body {
     backface-visibility: hidden;
 }
 
-.cartao__conteudo {
-    background-color: var(--card-front-color);
-    text-align: center;
-    height: 100%;
-    transform-style: preserve-3d;
-    transition: transform 300ms ease-in-out;
-}
+
 
 .cartao__conteudo__pergunta p{
     color: var(--text-color);
